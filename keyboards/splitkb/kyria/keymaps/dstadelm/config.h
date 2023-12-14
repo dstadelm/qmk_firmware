@@ -24,7 +24,7 @@
 // https://github.com/qmk/qmk_firmware/blob/master/docs/tap_hold.md#permissive-hold
 #define PERMISSIVE_HOLD
 
-#define TAPPING_TERM 160
+#define TAPPING_TERM 180
 
 #ifdef RGBLIGHT_ENABLE
 #    define RGBLIGHT_EFFECT_BREATHING
